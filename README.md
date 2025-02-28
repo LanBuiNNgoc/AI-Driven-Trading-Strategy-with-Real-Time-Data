@@ -1,1 +1,12 @@
-Goal: Buld an AI bot to implement a breakout trading strategy with a dynamic lookback period and a trailing stop-loss to mananage the trading risk
+AI Driven TRadiong Strategy with Real Time Data
+Project background:
+
+Executive Summary:
+
+
+Insight- Deep Dive:
+Key Questions for Skateholders
+Assumption and Caveats:
+
+
+

@@ -1,4 +1,4 @@
-# AI Driven TRading Strategy with Real Time Data
+# AI Driven Trading Strategy with Real Time Data
 ## Project background:
 This is the project that I used to promote myself into the Investment Club of USF. As a student majoring in Statistics and minor in Economics, I do recognize that there is one typical problem for traders nowadays which is to commit to "day trading". Day Trading is a one of the most profitable investing method nowadays which individuals can buy and sell the securities within the same day thanks to its fast - paced form of investing, However, a lot of traders struggle with time commitment and tend to lose track of their trading history which obviously results in a huge loss of money,
 ## Executive Summary:
